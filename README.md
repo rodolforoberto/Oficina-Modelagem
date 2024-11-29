@@ -30,5 +30,5 @@ Narrativa
 [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 ## Desafio - Oficina
-
+(https://github.com/rodolforoberto/Oficina-Modelagem/blob/main/Oficina.png?raw=true)
 
